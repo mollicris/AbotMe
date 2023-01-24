@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Julian</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">"La Biografia es Un videojugador es aquella persona que se caracteriza por jugar con gran dedicación e interés a videojuegos y por tener un conocimiento extenso sobre estos. También, aunque más ocasionalmente, se designa en español a este jugador habitual apasionado de los videojuegos, pero también entra dentro de los geeks. Ninguno de esos términos es necesariamente peyorativo o indica una patología en las personas designadas. Sin embargo, es posible que un jugador desarrolle una adicción o un uso problemático a los videojuegos.2​
+        \n\nUn jugador de videojuegos o videojugador,
+\n\ntambién conocido por el anglicismo gamer,
+\n\n1​ es toda persona que juega a algún
+\n\nvideojuego apasionadamente.
+\n\nAl jugador que se caracteriza por
+\n\ndedicarse con gran pasión e interés a los juegos en general,
+\n\nse le designa en español el apelativo de jugón,
+\n\naunque en función del tipo de juego
+\n\nse le puede llamar con un término más característico."</string>
+    <string name="what_is_your_nickname">Cual es tu Apodo</string>
+    <string name="done">Done</string>
+</resources>
